@@ -17,7 +17,7 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
-    "no-console": "error",
+    // "no-console": "error",
     "linebreak-style": ["error", "unix"],
     quotes: ["error", "double"],
     semi: ["error", "always"],
