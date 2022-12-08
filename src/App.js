@@ -2,7 +2,6 @@ import logo from "./logo.svg";
 import "./App.css";
 
 console.log("test");
-
 function App() {
   return (
     <div className="App">
@@ -10,7 +9,7 @@ function App() {
         console.log("🚀 ~ file: App.js:8 ~ App ~ header", header)
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload add test.
+          Edit <code>src/App.js</code> and save to reload add test again.
         </p>
         <a
           className="App-link"
