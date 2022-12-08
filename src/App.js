@@ -10,7 +10,7 @@ function App() {
         console.log("🚀 ~ file: App.js:8 ~ App ~ header", header)
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload add test.
         </p>
         <a
           className="App-link"
